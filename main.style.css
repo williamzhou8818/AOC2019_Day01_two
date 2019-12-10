@@ -1,0 +1,8 @@
+body { 
+    background: #fdfdfd;
+}
+
+.mass {
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
